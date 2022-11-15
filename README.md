@@ -1,11 +1,7 @@
 
-# Django Restframework Authentication REST API.
+# Landing Page From Bootstrap.
 
-This repository is the of Assignment.
-
-REST api for the User Sign up, Login, update password, forgot
-password, forgot, reset password, Email Validation with custom user model.
+This repository is part the of Assignment.
 
 
-## Documentation
-Complete documentation is available at [https://documenter.getpostman.com/view/23896226/2s8YmGV6GA](https://documenter.getpostman.com/view/23896226/2s8YmGV6GA) or in documentation folder.
+
